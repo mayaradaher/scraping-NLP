@@ -3,12 +3,12 @@
 - **Project 1: Web Scraper**
 
 Web scraper built in Python to scrape indeed.com page job listings to reveal:
-    - Job titles
-    - Company names
-    - Locations
-    - Salaries
-    - Ratings
-    - Summary of job
+- Job titles
+- Company names
+- Locations
+- Salaries
+- Ratings
+- Summary of job
 
 Keywords = Cientista+de+Dados (Data Scientist)
 
