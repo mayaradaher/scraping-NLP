@@ -15,7 +15,6 @@ Keywords = Cientista+de+Dados (Data Scientist)
 Country = Brazil
 
 Date of extraction: 09/04/2022
----
 
 **Project 2: Natural Language Processing**
 
