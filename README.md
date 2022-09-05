@@ -1,6 +1,6 @@
 # Web-Scraping-NLP-Indeed
 
-**Web Scraper**
+**Project 1: Web Scraper**
 
 Web scraper built in Python to scrape indeed.com page job listings to reveal:
 - Job titles
@@ -17,6 +17,6 @@ Country = Brazil
 Date of extraction: 09/04/2022
 
 
-**Natural Language Processing**
+**Project 2: Natural Language Processing**
 
 Improving a Data Scientist job search with NLP.
