@@ -1,4 +1,4 @@
-# Web-Scraping-NLP-Indeed
+# Web Scraper and Natural Language Processing
 
 **Project 1: Web Scraper**
 
