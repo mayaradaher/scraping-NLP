@@ -16,6 +16,6 @@ Country: Brazil
 
 Date of extraction: 09/04/2022
 
-- **Project 2: Natural Language Processing**
+- **Project 2: Natural Language Processing (NLP)**
 
 Improving a Data Scientist job search with NLP.
