@@ -3,6 +3,7 @@
 - **Project 1: Web Scraper**
 
 Web scraper built in Python to scrape indeed.com page job listings to reveal:
+
 - Job titles
 - Company names
 - Locations
@@ -14,7 +15,7 @@ Keywords: Cientista+de+Dados (Data Scientist)
 
 Country: Brazil
 
-Date of extraction: 09/04/2022
+Date of extraction: 10/09/2023
 
 - **Project 2: Natural Language Processing (NLP)**
 
